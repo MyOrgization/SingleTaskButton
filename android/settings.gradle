@@ -1,0 +1,3 @@
+rootProject.name = 'singleTaskButton'
+
+include ':app'
